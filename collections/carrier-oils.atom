@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mwnaturals.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mwnaturals.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mwnaturals.ca/collections/carrier-oils.atom"/>
+  <title>Mountain Wellness Naturals</title>
+  <updated>2017-05-07T22:07:14-06:00</updated>
+  <author>
+    <name>Mountain Wellness Naturals</name>
+  </author>
+  <entry>
+    <id>https://mwnaturals.ca/products/9344015825</id>
+    <published>2017-05-07T22:07:14-06:00</published>
+    <updated>2017-05-07T22:07:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/olive-organic-carrier-oil-extra-virgin"/>
+    <title>Olive Organic Carrier Oil - Extra Virgin</title>
+    <s:type>Carrier Oils</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/olive.jpg?v=1620103656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Carrier Oils<br>
+        <strong>Price: </strong>
+            9.95 - 14.95
+            <a href="https://mwnaturals.ca/products/olive-organic-carrier-oil-extra-virgin">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Botanical Name:</strong> Olea europaea</p>
+<p><strong>Extraction Method:</strong> Cold Pressed</p>
+<p><strong>Shelf Life: </strong> Users can expect a shelf life of 2 years using proper storage conditions (cool, out of direct sunlight). Refrigeration after opening is recommended, but it must be brought back to room temperature before using.</p>
+<p><span>We put our carrier oils into natural plastic squeeze bottles for ease of use.  </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base</s:tag>
+    <s:tag>Carrier</s:tag>
+    <s:tag>Oil</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9344015825</id>
+      <title>60 mL</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9344015825</id>
+      <title>120 mL</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9344015825</id>
+      <title>240 mL</title>
+      <s:price currency="CAD">12.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9344015825</id>
+      <title>500 mL</title>
+      <s:price currency="CAD">14.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>560</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mwnaturals.ca/products/9343572305</id>
+    <published>2017-05-07T20:56:46-06:00</published>
+    <updated>2017-05-07T20:56:46-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/hemp-seed-organic-carrier-oil"/>
+    <title>Hemp Seed Organic Carrier Oil</title>
+    <s:type>Carrier Oils</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/hemp_seed_1.jpg?v=1494213921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Carrier Oils<br>
+        <strong>Price: </strong>
+            9.95 - 34.95
+            <a href="https://mwnaturals.ca/products/hemp-seed-organic-carrier-oil">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Botanical Name:</strong> Cannabis sativa</p>
+<p><strong>Extraction Method:</strong> Cold Pressed</p>
+<p><strong>Processing Type:</strong> Unrefined</p>
+<p><strong>Obtained From:</strong> Grains</p>
+<p><strong>Origin:</strong> Canada</p>
+<p><strong>﻿Shelf Life: </strong>﻿<span>Users can expect a shelf life of 1 year with proper storage conditions (cool, out of direct sunlight). Refrigeration after opening is recommended.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base</s:tag>
+    <s:tag>Carrier</s:tag>
+    <s:tag>Oil</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9343572305</id>
+      <title>60 mL</title>
+      <s:price currency="CAD">9.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9343572305</id>
+      <title>120 mL</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9343572305</id>
+      <title>240 mL</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9343572305</id>
+      <title>500 mL</title>
+      <s:price currency="CAD">34.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>560</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mwnaturals.ca/products/9343254609</id>
+    <published>2017-05-07T20:45:09-06:00</published>
+    <updated>2017-05-07T20:45:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/grapeseed-organic-carrier-oil"/>
+    <title>Grapeseed Organic Carrier Oil</title>
+    <s:type>Carrier Oils</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/grapeseed.jpg?v=1620103203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Carrier Oils<br>
+        <strong>Price: </strong>
+            11.95 - 26.95
+            <a href="https://mwnaturals.ca/products/grapeseed-organic-carrier-oil">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Botanical Name:</strong> Vitis vinifera</p>
+<p><strong>Extraction Method:</strong> Cold Pressed</p>
+<p><strong>Shelf Life: </strong><span>The product must be stored in a dry and fresh place. The oil is sensitive to light, air (oxygen) and heat. The unopened package has a shelf life of 2 years.  Refrigerate after opening.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base</s:tag>
+    <s:tag>Carrier</s:tag>
+    <s:tag>Oil</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9343254609</id>
+      <title>60 mL</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9343254609</id>
+      <title>120 mL</title>
+      <s:price currency="CAD">17.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9343254609</id>
+      <title>240 mL</title>
+      <s:price currency="CAD">26.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mwnaturals.ca/products/9343210897</id>
+    <published>2017-05-07T20:36:35-06:00</published>
+    <updated>2017-05-07T20:36:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/coconut-virgin-organic-carrier-oil"/>
+    <title>Coconut Virgin Organic Carrier Oil - Fair Trade</title>
+    <s:type>Carrier Oils</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/coconut_473b0ea6-ac98-442f-a5f9-dd8dcb2aceed.jpg?v=1494211453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Carrier Oils<br>
+        <strong>Price: </strong>
+            7.95 - 38.95
+            <a href="https://mwnaturals.ca/products/coconut-virgin-organic-carrier-oil">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Botanical Name:</strong> Cocos nucifera</p>
+<p><strong>Extraction Method:</strong> Cold Pressed</p>
+<p><strong>Please Note:</strong> This oil is a sustainable product.</p>
+<p><strong>Shelf Life: </strong>Coconut Virgin Organic Carrier Oil should be kept cool and out of bright light; refrigeration is recommended, and it should be used quickly to retain its freshness. Once properly formulated, however, it is slow to go rancid.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base</s:tag>
+    <s:tag>Carrier</s:tag>
+    <s:tag>Oil</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9343210897</id>
+      <title>120 mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9343210897</id>
+      <title>240 mL</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9343210897</id>
+      <title>500 mL</title>
+      <s:price currency="CAD">19.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>560</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9343210897</id>
+      <title>1 L</title>
+      <s:price currency="CAD">38.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>1100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mwnaturals.ca/products/9342982865</id>
+    <published>2017-05-07T19:48:28-06:00</published>
+    <updated>2017-05-07T19:48:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/chia-seed-organic-carrier-oil-extra-virgin"/>
+    <title>Chia Seed Organic Carrier Oil - Extra Virgin</title>
+    <s:type>Carrier Oils</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/chiaseed.jpg?v=1620105096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Carrier Oils<br>
+        <strong>Price: </strong>
+            15.95 - 39.95
+            <a href="https://mwnaturals.ca/products/chia-seed-organic-carrier-oil-extra-virgin">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Botanical Name:</strong> <em>Salvia hispanica L</em></p>
+<p><strong>Extraction Method:</strong> Cold Pressed</p>
+<p><strong>Processing Type:</strong> Unrefined</p>
+<p><span><strong>Shelf Life: </strong>Users can expect a shelf life of 2 years with proper storage conditions (cool, out of direct sunlight). Refrigeration after opening is recommended.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base</s:tag>
+    <s:tag>Carrier</s:tag>
+    <s:tag>Oil</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9342982865</id>
+      <title>60 mL</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9342982865</id>
+      <title>120 mL</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9342982865</id>
+      <title>240 mL</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mwnaturals.ca/products/9342958673</id>
+    <published>2017-05-07T19:29:49-06:00</published>
+    <updated>2017-05-07T19:29:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/argan-organic-carrier-oil"/>
+    <title>Argan Organic Carrier Oil - Virgin</title>
+    <s:type>Carrier Oils</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/argan.jpg?v=1620103165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Carrier Oils<br>
+        <strong>Price: </strong>
+            15.95 - 39.95
+            <a href="https://mwnaturals.ca/products/argan-organic-carrier-oil">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Botanical Name:</strong><em> Argania Spinosa</em></p>
+<p><strong>Extraction Method:</strong> Cold Pressed</p>
+<p><strong>Processing Type:</strong> Unrefined</p>
+<p><strong>Obtained From:</strong> Nuts</p>
+<p><strong>Origin:</strong> Morocco</p>
+<p><strong>﻿Shelf Life: </strong>Organic Argan Oil is very stable; users can expect a shelf life of 2 years with proper storage conditions (cool, out of direct sunlight). Refrigeration after opening is recommended.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base</s:tag>
+    <s:tag>Carrier</s:tag>
+    <s:tag>Oil</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9342958673</id>
+      <title>60 mL</title>
+      <s:price currency="CAD">15.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9342958673</id>
+      <title>120 mL</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9342958673</id>
+      <title>240 mL</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mwnaturals.ca/products/9291848209</id>
+    <published>2017-05-01T01:03:30-06:00</published>
+    <updated>2017-05-01T01:03:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/fractionated-coconut-carrier-oil"/>
+    <title>Fractionated Coconut Organic Carrier Oil</title>
+    <s:type>Carrier Oils</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/coconut.jpg?v=1494206845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Carrier Oils<br>
+        <strong>Price: </strong>
+            6.95 - 16.95
+            <a href="https://mwnaturals.ca/products/fractionated-coconut-carrier-oil">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>MCT 60/40 - ECOCERT certified</p>
+<p><strong>Extraction Method:</strong> Heat Processed<br></p>
+<p><strong>Processing Type:</strong> Refined</p>
+<p><strong>Obtained From:</strong> Kernels</p>
+<p><strong>Origin:</strong> Malaysia</p>
+<p><strong>Shelf Life: </strong>Indefinite</p>
+<p>An odorless refined form of coconut oil.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base</s:tag>
+    <s:tag>Carrier</s:tag>
+    <s:tag>Oil</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9291848209</id>
+      <title>60 mL</title>
+      <s:price currency="CAD">6.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9291848209</id>
+      <title>120 mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9291848209</id>
+      <title>240 mL</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9291848209</id>
+      <title>480 mL</title>
+      <s:price currency="CAD">16.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mwnaturals.ca/products/9289256145</id>
+    <published>2017-04-30T19:21:52-06:00</published>
+    <updated>2017-04-30T19:21:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/organic-jojoba-carrier-oil"/>
+    <title>Jojoba Golden Organic Carrier Oil</title>
+    <s:type>Carrier Oils</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/carrier_oil_c0c4f7d1-824f-46cc-926b-758f763c8d8b.jpg?v=1494133698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Carrier Oils<br>
+        <strong>Price: </strong>
+            11.95 - 59.95
+            <a href="https://mwnaturals.ca/products/organic-jojoba-carrier-oil">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Botanical Name:</strong> Simmondsia chinensis</p>
+<p><strong>Extraction Method:</strong> Cold Pressed</p>
+<p><strong>Processing Type:</strong> Unrefined</p>
+<p><strong>Obtained From:</strong> Seeds</p>
+<p><strong>Origin:</strong> Israel</p>
+<p><strong>﻿Shelf Life: </strong>﻿Indefinite</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Base</s:tag>
+    <s:tag>Carrier</s:tag>
+    <s:tag>Oil</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9289256145</id>
+      <title>60 mL</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9289256145</id>
+      <title>120 mL</title>
+      <s:price currency="CAD">21.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9289256145</id>
+      <title>240 mL</title>
+      <s:price currency="CAD">37.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9289256145</id>
+      <title>500 mL</title>
+      <s:price currency="CAD">59.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

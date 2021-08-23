@@ -1,0 +1,1056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mwnaturals.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mwnaturals.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mwnaturals.ca/collections/home-and-body.atom"/>
+  <title>Mountain Wellness Naturals</title>
+  <updated>2020-07-23T12:38:50-06:00</updated>
+  <author>
+    <name>Mountain Wellness Naturals</name>
+  </author>
+  <entry>
+    <id>https://mwnaturals.ca/products/4658983993425</id>
+    <published>2020-07-23T12:38:50-06:00</published>
+    <updated>2020-07-23T12:38:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/shield-sanitizer"/>
+    <title>Shield Sanitizer</title>
+    <s:type>Home and Body</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/800x800-shopify-product-logo_30be1c43-3375-41c1-a4b0-9f449f26b305.jpg?v=1620101067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Home and Body<br>
+        <strong>Price: </strong>
+            10.00 - 15.00
+            <a href="https://mwnaturals.ca/products/shield-sanitizer">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A powerful sanitizing spray that leaves your hands and surfaces smelling wonderful for hours.  Our Shield Blend (thieves) is mixed with a pharmaceutical grade sanitizer based in 80% ethyl alcohol to create a solution packed with antioxidants and anti-inflammatories.  Leaves hands feeling soft and conditioned.</p>
+<p>It is required that hands or surfaces stay wet with the sanitizing spray for 20 seconds to ensure effective removal of pathogens.</p>
+<p><br></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blends</s:tag>
+    <s:tag>Body</s:tag>
+    <s:tag>Bug</s:tag>
+    <s:tag>cleaner</s:tag>
+    <s:tag>Cleanser</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>Facial</s:tag>
+    <s:tag>Hair</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Insect</s:tag>
+    <s:tag>Lotion</s:tag>
+    <s:tag>Repellant</s:tag>
+    <s:tag>sanitizer</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shaving</s:tag>
+    <s:tag>shield</s:tag>
+    <s:tag>Skin Care</s:tag>
+    <s:tag>spray</s:tag>
+    <s:tag>Thieves</s:tag>
+    <s:tag>Toothpaste</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/4658983993425</id>
+      <title>120 mL</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/4658983993425</id>
+      <title>240 mL</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mwnaturals.ca/products/2359052271697</id>
+    <published>2018-11-27T16:25:58-07:00</published>
+    <updated>2018-11-27T16:25:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/full-skin-care-line"/>
+    <title>Full Skin Care Line</title>
+    <s:type>Home and Body</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/20181205_175948.jpg?v=1544063609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Home and Body<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Professional quality, results-driven skin care with 100% natural ingredients at a fraction of the cost of equivalent products.</p>
+<p>Buy the full 5 step line and save over 20%</p>
+<p>- 2 in 1 Foaming Cleanser and Shaving Cream</p>
+<p>- Refreshing Facial Toner</p>
+<p>- Rejuvenating Serum</p>
+<p>- Luminous Moisture Lotion</p>
+<p>- Glacial Clay</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body</s:tag>
+    <s:tag>Bug</s:tag>
+    <s:tag>Cleaner</s:tag>
+    <s:tag>Cleanser</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>Facial</s:tag>
+    <s:tag>Hair</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Insect</s:tag>
+    <s:tag>Lotion</s:tag>
+    <s:tag>Repellant</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shaving</s:tag>
+    <s:tag>Skin Care</s:tag>
+    <s:tag>Spray</s:tag>
+    <s:tag>Toothpaste</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/2359052271697</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">120.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mwnaturals.ca/products/2359029399633</id>
+    <published>2018-11-27T15:54:57-07:00</published>
+    <updated>2018-11-27T15:54:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/glacial-clay"/>
+    <title>Glacial Clay</title>
+    <s:type>Home and Body</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/800x800-shopify-product-logo_97119c22-aef4-424c-a6f3-9cdd34e3d708.jpg?v=1620100696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Home and Body<br>
+        <strong>Price: </strong>
+            23.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A 100% natural deep cleansing masque for face and body.  Purifies and soothes the skin while reducing inflammation and providing hydration.</p>
+<p>- Safe for all skin types<br>- Hypoallergenic<br>- Non-comedogenic (doesn't clog pores)<br>- No parabens<br>- No sulfates<br>- No animal testing</p>
+<p><strong>Ingredients:</strong> Water, 100% Pure Canadian Colloidal Clay (Glacial Clay), Vegetable Glycerine, Sodium Hydroxymethylglycinate.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body</s:tag>
+    <s:tag>Bug</s:tag>
+    <s:tag>Cleaner</s:tag>
+    <s:tag>Cleanser</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>Facial</s:tag>
+    <s:tag>Hair</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Insect</s:tag>
+    <s:tag>Lotion</s:tag>
+    <s:tag>Repellant</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shaving</s:tag>
+    <s:tag>Skin Care</s:tag>
+    <s:tag>Spray</s:tag>
+    <s:tag>Toothpaste</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/2359029399633</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mwnaturals.ca/products/2359022452817</id>
+    <published>2018-11-27T15:54:57-07:00</published>
+    <updated>2018-11-27T15:54:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/rejuvenating-serum"/>
+    <title>Rejuvenating Serum</title>
+    <s:type>Home and Body</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/800x800-shopify-product-logo_29c80dc6-d8c3-4d3f-8097-abe2b396c6ee.jpg?v=1620100972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Home and Body<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This 100% natural, concentrated, fast-absorbing serum is designed to revitalize and nourish the skin to help reduce all signs of aging.</p>
+<p>- Safe for all skin types<br>- Hypoallergenic<br>- Non-comedogenic (doesn't clog pores)<br>- No parabens<br>- No sulfates<br>- No animal testing</p>
+<p><strong>Ingredients:</strong> C-Ester, DMAE, Vitamins A &amp; E, Alpha Lipoic Acid, and CoQ10 in a base of Lavender, MSM, and Rosehip Oil.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body</s:tag>
+    <s:tag>Bug</s:tag>
+    <s:tag>Cleaner</s:tag>
+    <s:tag>Cleanser</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>Facial</s:tag>
+    <s:tag>Hair</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Insect</s:tag>
+    <s:tag>Lotion</s:tag>
+    <s:tag>Repellant</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shaving</s:tag>
+    <s:tag>Skin Care</s:tag>
+    <s:tag>Spray</s:tag>
+    <s:tag>Toothpaste</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/2359022452817</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mwnaturals.ca/products/2359014293585</id>
+    <published>2018-11-27T15:54:57-07:00</published>
+    <updated>2018-11-27T15:54:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/luminous-moisture-lotion"/>
+    <title>Luminous Moisture Lotion</title>
+    <s:type>Home and Body</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/800x800-shopify-product-logo_c61cc334-c189-479f-b88b-30fc3627054c.jpg?v=1620100779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Home and Body<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A light and quick to absorb lotion that promotes skin regeneration and healing.  Calms inflammation and hydrates deeply.  100% natural.</p>
+<p>- Safe for all skin types<br>- Hypoallergenic<br>- Non-comedogenic (doesn't clog pores)<br>- No parabens<br>- No sulfates<br>- No animal testing</p>
+<p><strong>Ingredients:</strong> Water, Jojoba, Aloe Vera, Natural Essential Fatty Acid from Coconut, Palm Kernel Oil Castor Oil, Cocoa Butter, Xanthan Gum, Vegetable Glycerine, Vitamin B5, Rose Hip Oil, St. John’s Wort Oil, Calendula Oil, Vitamin E, Vitamin A, Evening Primrose Oil, Lavender Oil, Sodium Hydroxymethyglycinate and Essential Oils of Neroli, Rose Abs, Carrot Seed, Sweet Orange, Lavender, Frankincense &amp; Helichrysum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body</s:tag>
+    <s:tag>Bug</s:tag>
+    <s:tag>Cleaner</s:tag>
+    <s:tag>Cleanser</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>Essential Oil</s:tag>
+    <s:tag>Facial</s:tag>
+    <s:tag>Hair</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Insect</s:tag>
+    <s:tag>Lotion</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Repellant</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shaving</s:tag>
+    <s:tag>Skin Care</s:tag>
+    <s:tag>Spray</s:tag>
+    <s:tag>Toothpaste</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/2359014293585</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mwnaturals.ca/products/2359008690257</id>
+    <published>2018-11-27T15:54:57-07:00</published>
+    <updated>2018-11-27T15:54:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/refreshing-facial-toner"/>
+    <title>Refreshing Facial Toner</title>
+    <s:type>Home and Body</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/800x800-shopify-product-logo_0d0e4400-3be7-4747-a615-ff4706615740.jpg?v=1620100960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Home and Body<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% natural.  This is a simple and uplifting toner consisting of pure Neroli and Rose floral waters.  Astringent and healing, users feel lighter and uplifted.  Reduces inflammation while hydrating.</p>
+<p>- Safe for all skin types<br>- Hypoallergenic<br>- Non-comedogenic (doesn't clog pores)<br>- No parabens<br>- No sulfates<br>- No animal testing</p>
+<p><strong>Ingredients:</strong> Neroli and Rose Floral Waters</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body</s:tag>
+    <s:tag>Bug</s:tag>
+    <s:tag>Cleaner</s:tag>
+    <s:tag>Cleanser</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>Facial</s:tag>
+    <s:tag>Hair</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Insect</s:tag>
+    <s:tag>Lotion</s:tag>
+    <s:tag>Repellant</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shaving</s:tag>
+    <s:tag>Skin Care</s:tag>
+    <s:tag>Spray</s:tag>
+    <s:tag>Toothpaste</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/2359008690257</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mwnaturals.ca/products/2359005511761</id>
+    <published>2018-11-27T15:54:57-07:00</published>
+    <updated>2018-11-27T15:54:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/2-in-1-foaming-cleanser-and-shaving-cream"/>
+    <title>2 in 1 Foaming Cleanser and Shaving Cream</title>
+    <s:type>Home and Body</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/720x720-logo.jpg?v=1620097177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Home and Body<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A luxuriously smooth, 100% natural, purifying and soothing facial cleanser.  Calms and hydrates the skin.  Works great a shaving cream too!  Good for acne prone skin.</p>
+<p>- Safe for all skin types<br>- Hypoallergenic<br>- Non-comedogenic (doesn't clog pores)<br>- No parabens<br>- No sulfates<br>- No animal testing</p>
+<p><strong>Ingredients:</strong> Purified Water, Coconut Extracts (Decyl and Lauryl Glucosides, Coconut Betaine and MEA), Guar Gum, Aloe Vera, Vitamin E, Lavender and OPA (Organic Plant Acids).</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body</s:tag>
+    <s:tag>Bug</s:tag>
+    <s:tag>Cleaner</s:tag>
+    <s:tag>Cleanser</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>Facial</s:tag>
+    <s:tag>Hair</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Insect</s:tag>
+    <s:tag>Lotion</s:tag>
+    <s:tag>Repellant</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shaving</s:tag>
+    <s:tag>Skin Care</s:tag>
+    <s:tag>Spray</s:tag>
+    <s:tag>Toothpaste</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/2359005511761</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mwnaturals.ca/products/2358827712593</id>
+    <published>2018-11-27T14:00:49-07:00</published>
+    <updated>2018-11-27T14:00:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/natural-mineralizing-toothpaste-120-ml"/>
+    <title>Natural Mineralizing Toothpaste 100 mL</title>
+    <s:type>Home and Body</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/800x800-shopify-product-logo_054a9b68-6825-4505-8c4a-19c03455fbd4.jpg?v=1620100883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Home and Body<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This enamel strengthening toothpaste can be used to help heal cavities and repair chipped and damaged teeth.  Brush at least twice a day and combine with a healthy complete diet FREE OF PHYTIC ACID.  A google search can reveal foods to avoid.  This combination will help to facilitate the process known as remineralization for the teeth.</p>
+<p>Natural toothpaste is superior to the name brands for a number of reasons:</p>
+<p>1. Does not damage the biofilm of the teeth so plaque build-up is drastically reduced; teeth stay cleaner longer</p>
+<p>2. Natural sweetener Xylitol supports gum health and can help reduce gum disease and gum decay</p>
+<p>3. No harmful chemicals for you or the environment</p>
+<p>4. 100% recyclable packaging</p>
+<p>5. You support sustainable practices by using all-natural and organic ingredients.</p>
+<p><strong>This toothpaste is safe for use during pregnancy and for children/infants</strong></p>
+<p> </p>
+<p><strong>Ingredients: </strong>Bentonite clay, coconut oil*, cacao powder*, olive oil*, baking soda, Xylitol, Spearmint essential oil*</p>
+<p>* Certified organic ingredients</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body</s:tag>
+    <s:tag>Bug</s:tag>
+    <s:tag>Cleaner</s:tag>
+    <s:tag>Cleanser</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>Essential Oil</s:tag>
+    <s:tag>Facial</s:tag>
+    <s:tag>Hair</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Insect</s:tag>
+    <s:tag>Lotion</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Repellant</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shaving</s:tag>
+    <s:tag>Skin Care</s:tag>
+    <s:tag>Spray</s:tag>
+    <s:tag>Toothpaste</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/2358827712593</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mwnaturals.ca/products/2358827417681</id>
+    <published>2018-11-27T14:00:49-07:00</published>
+    <updated>2018-11-27T14:00:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/natural-whitening-toothpaste-120-ml"/>
+    <title>Natural Whitening Toothpaste 100 mL</title>
+    <s:type>Home and Body</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/800x800-shopify-product-logo_73605556-e290-4563-b6b6-babbcd47c4f5.jpg?v=1620100905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Home and Body<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Natural toothpaste is superior to the name brands for a number of reasons:</p>
+<p>1. Does not damage the biofilm of the teeth so plaque build-up is drastically reduced; teeth stay cleaner longer</p>
+<p>2. Natural sweetener Xylitol supports gum health and can help reduce gum disease and gum decay</p>
+<p>3. No harmful chemicals for you or the environment</p>
+<p>4. 100% recyclable packaging</p>
+<p>5. You support sustainable practices by using all-natural and organic ingredients.</p>
+<p><strong>﻿This toothpaste is safe for use during pregnancy and for children/infants.</strong></p>
+<p> </p>
+<p><strong>Ingredients: </strong>Baking soda, coconut oil*, Xylitol, olive oil*, activated charcoal, Spearmint essential oil*</p>
+<p>* Certified organic ingredients</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body</s:tag>
+    <s:tag>Bug</s:tag>
+    <s:tag>Cleaner</s:tag>
+    <s:tag>Cleanser</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>Essential Oil</s:tag>
+    <s:tag>Facial</s:tag>
+    <s:tag>Hair</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Insect</s:tag>
+    <s:tag>Lotion</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Repellant</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shaving</s:tag>
+    <s:tag>Skin Care</s:tag>
+    <s:tag>Spray</s:tag>
+    <s:tag>Toothpaste</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/2358827417681</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mwnaturals.ca/products/2410814898257</id>
+    <published>2018-11-05T19:44:49-07:00</published>
+    <updated>2018-11-05T19:44:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/natural-liquid-deodorant-scent-free"/>
+    <title>Natural Liquid Deodorant - Scent Free</title>
+    <s:type>Home and Body</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/800x800-shopify-product-logo_c38b0c77-edb1-4f8a-9af3-19046f6ff262.jpg?v=1620100835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Home and Body<br>
+        <strong>Price: </strong>
+            7.95 - 12.95
+            <a href="https://mwnaturals.ca/products/natural-liquid-deodorant-scent-free">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Ingredients:</strong>  Water, Potassium Alum Salt.</p>
+<p>This unscented brine stops the growth of odor-causing bacteria while detoxifying the skin and body.  Expect increased sweating for the first few days of use especially if switching from an antiperspirant while the body flushes out toxins.</p>
+<p>Use 2 - 5 sprays per arm (depending on hair).  Works for 12 - 24 hours.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body</s:tag>
+    <s:tag>Bug</s:tag>
+    <s:tag>Cleaner</s:tag>
+    <s:tag>Cleanser</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>Facial</s:tag>
+    <s:tag>Hair</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Insect</s:tag>
+    <s:tag>Lotion</s:tag>
+    <s:tag>Repellant</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shaving</s:tag>
+    <s:tag>Skin Care</s:tag>
+    <s:tag>Spray</s:tag>
+    <s:tag>Toothpaste</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/2410814898257</id>
+      <title>120 mL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/2410814898257</id>
+      <title>240 mL</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mwnaturals.ca/products/1563214708817</id>
+    <published>2018-11-05T19:44:49-07:00</published>
+    <updated>2018-11-05T19:44:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/organic-hair-growth-serum"/>
+    <title>Organic Hair Growth Serum</title>
+    <s:type>Home and Body</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/800x800-shopify-product-logo_3650e48e-e51f-4124-9188-d0589f422375.jpg?v=1620100919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Home and Body<br>
+        <strong>Price: </strong>
+            12.95 - 21.95
+            <a href="https://mwnaturals.ca/products/organic-hair-growth-serum">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% Organic ingredients. </p>
+<p>Apply to scalp and let sit overnight or for 4 or more hours.</p>
+<p><strong>Ingredients:</strong> Almond oil*, Rosemary essential oil*, Peppermint essential oil*</p>
+<p>* USDA Certified organic ingredients</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body</s:tag>
+    <s:tag>Bug</s:tag>
+    <s:tag>Cleaner</s:tag>
+    <s:tag>Cleanser</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>Essential Oil</s:tag>
+    <s:tag>Facial</s:tag>
+    <s:tag>Hair</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Insect</s:tag>
+    <s:tag>Lotion</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Repellant</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shaving</s:tag>
+    <s:tag>Skin Care</s:tag>
+    <s:tag>Spray</s:tag>
+    <s:tag>Toothpaste</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/1563214708817</id>
+      <title>50 mL</title>
+      <s:price currency="CAD">12.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/1563214708817</id>
+      <title>100 Ml</title>
+      <s:price currency="CAD">21.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mwnaturals.ca/products/1563188330577</id>
+    <published>2018-11-05T19:05:46-07:00</published>
+    <updated>2018-11-05T19:05:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/rosemary-peppermint-shampoo"/>
+    <title>Rosemary Peppermint Shampoo</title>
+    <s:type>Home and Body</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/800x800-shopify-product-logo_e55e46e2-2463-4e60-aa14-4e1e5136eac4.jpg?v=1620101003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Home and Body<br>
+        <strong>Price: </strong>
+            18.95 - 25.95
+            <a href="https://mwnaturals.ca/products/rosemary-peppermint-shampoo">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>100% natural, Rosemary Peppermint Shampoo with Tea Tree can help reduce hair loss while stimulating new hair follicle growth.  Helps hair grow faster and stronger by increasing circulation to the scalp and providing nutrients essential to growth.  Can help reduce dandruff when used in sequence with our Rosemary Peppermint Conditioner.  Use as needed.</span></p>
+<p><strong>Ingredients:</strong> Water (Aqua), Infusion of Lavandula Officinals (Lavender Water),<br>Rosmarinus Officinalis (Rosemary Water), Equisetum Arvense (Horsetail Plant), Urtica Dioica (Nettle Leaf), Salvia Officinals (Sage), Panax Ginseng (Chinese Ginseng), Calendula Officinals (Calendula Extract), Olea Europaea (Olive Oil), Camella Oleifera (Camella Leaf Extract), Hypericum Perforatum (St. John’s Wort Oil), Laminaria Digitata (Seaweed), Alkylpolyglucosides (Natural Vegetarian Surfactant from Corn, Potato, Wheat, Coconut Oil), Cocamidopropyl Betain (from Coconuts), Vegetable Glycerine, Cannabis Sativa (Hemp Seed Oil), Panthenol (Vitamin B-5), Cyamopsis Tetragonoloba (Guar Gum), Citric Acid, Sodium Hydroxymethylglycinate.  <strong>Organic </strong><strong>Essential Oils of:</strong> <strong></strong>Rosemary (Rosmarinus officinalis), Peppermint (Mentha piperita), Tea Tree (Melaleuca alternifolia)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body</s:tag>
+    <s:tag>Bug</s:tag>
+    <s:tag>Cleaner</s:tag>
+    <s:tag>Cleanser</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>Essential Oil</s:tag>
+    <s:tag>Facial</s:tag>
+    <s:tag>Hair</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Insect</s:tag>
+    <s:tag>Lotion</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Repellant</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shaving</s:tag>
+    <s:tag>Skin Care</s:tag>
+    <s:tag>Spray</s:tag>
+    <s:tag>Toothpaste</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/1563188330577</id>
+      <title>240 mL</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/1563188330577</id>
+      <title>480 mL</title>
+      <s:price currency="CAD">25.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mwnaturals.ca/products/1563185414225</id>
+    <published>2018-11-05T19:05:46-07:00</published>
+    <updated>2018-11-05T19:05:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/rosemary-peppermint-conditioner"/>
+    <title>Rosemary Peppermint Conditioner</title>
+    <s:type>Home and Body</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/800x800-shopify-product-logo_f689dfe4-b665-4a02-8b0d-b9eaab082175.jpg?v=1620100988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Home and Body<br>
+        <strong>Price: </strong>
+            18.95 - 25.95
+            <a href="https://mwnaturals.ca/products/rosemary-peppermint-conditioner">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span mce-data-marked="1">100% natural, Rosemary Peppermint Conditioner with Tea Tree can help reduce hair loss while stimulating new hair follicle growth.  Helps hair grow faster and stronger by increasing circulation to the scalp and providing essential nutrients.  Can also help to reduce dandruff.  Massage into hair and scalp and let sit for 5 minutes for best results.</span></p>
+<p><strong>Ingredients:</strong> Water (Aqua), Panax (Korean Ginseng), Aloe Barbadensis Leaf Juice (Aloe Vera), Ginkgo Biloba Ginkgo Leaf Powdered), Salvia Officinalis (Sage), Urtica (Nettle Leaf), Simmondisa Chinensis (Jojoba Oil), Cannabis Sativa (Hemp Seed Oil), Tocopheryl Acetate (Vitamin E), Hydrolized Wheat Protein, Panthenol (Vitamin B5), Cetyl Alcohol, Polyglyceryl -3 Oleate, Sodium Hydroxymethylglycinate.  <strong>﻿Organic </strong><strong>Essential Oils<span> </span>of:</strong>﻿ <strong>﻿</strong>﻿Rosemary (Rosmarinus officinalis), Peppermint (Mentha piperita), Tea Tree (Melaleuca<span> </span>alternifolia)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body</s:tag>
+    <s:tag>Bug</s:tag>
+    <s:tag>Cleaner</s:tag>
+    <s:tag>Cleanser</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>Essential Oil</s:tag>
+    <s:tag>Facial</s:tag>
+    <s:tag>Hair</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Insect</s:tag>
+    <s:tag>Lotion</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Repellant</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shaving</s:tag>
+    <s:tag>Skin Care</s:tag>
+    <s:tag>Spray</s:tag>
+    <s:tag>Toothpaste</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/1563185414225</id>
+      <title>240 mL</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/1563185414225</id>
+      <title>480 mL</title>
+      <s:price currency="CAD">25.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>530</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mwnaturals.ca/products/1563181023313</id>
+    <published>2018-11-05T19:05:46-07:00</published>
+    <updated>2018-11-05T19:05:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/unscented-conditioner"/>
+    <title>Unscented Conditioner</title>
+    <s:type>Home and Body</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/800x800-shopify-product-logo_c12e8edc-28ff-4a40-84e9-a081b5c2b2b0.jpg?v=1620101086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Home and Body<br>
+        <strong>Price: </strong>
+            11.95 - 17.95
+            <a href="https://mwnaturals.ca/products/unscented-conditioner">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>100% natural.  Use as needed.  Add up to 3% essential oil, following the oils safety recommendations.</span></p>
+<p><strong>Ingredients:</strong> Water (Aqua), Panax (Korean Ginseng), Aloe Barbadensis Leaf Juice (Aloe Vera), Ginkgo Biloba Ginkgo Leaf Powdered), Salvia Officinalis (Sage), Urtica (Nettle Leaf), Simmondsia Chinensis (Jojoba Oil), Cannabis Sativa (Hemp Seed Oil), Tocopheryl Acetate (Vitamin E), Hydrolized Wheat Protein, Panthenol (Vitamin B5), Cetyl Alcohol, Polyglyceryl -3 Oleate, Sodium Hydroxymethylglycinate</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body</s:tag>
+    <s:tag>Bug</s:tag>
+    <s:tag>Cleaner</s:tag>
+    <s:tag>Cleanser</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>Essential Oil</s:tag>
+    <s:tag>Facial</s:tag>
+    <s:tag>Hair</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Insect</s:tag>
+    <s:tag>Lotion</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Repellant</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shaving</s:tag>
+    <s:tag>Skin Care</s:tag>
+    <s:tag>Spray</s:tag>
+    <s:tag>Toothpaste</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/1563181023313</id>
+      <title>240 mL</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>270</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/1563181023313</id>
+      <title>480 mL</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mwnaturals.ca/products/1563178598481</id>
+    <published>2018-11-05T19:05:46-07:00</published>
+    <updated>2018-11-05T19:05:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/unscented-shampoo"/>
+    <title>Unscented Shampoo</title>
+    <s:type>Home and Body</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/800x800-shopify-product-logo_ab56dd87-0ad9-42b8-aa28-bd9d913643d3.jpg?v=1620101097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Home and Body<br>
+        <strong>Price: </strong>
+            11.95 - 17.95
+            <a href="https://mwnaturals.ca/products/unscented-shampoo">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>100% natural.  Use as needed.  Add up to 3% essential oil, following the oils safety recommendations.</p>
+<p><strong>Ingredients:</strong> Water (Aqua), Infusion of Lavandula Officinals (Lavender Water),<br>Rosmarinus Officinals (Rosemary Water), Equisetum Arvense (Horsetail Plant), Urtica Dioica (Nettle Leaf), Salvia Officinals (Sage), Panax Ginseng (Chinese Ginseng), Calendula Officinals (Calendula Extract), Olea Europaea (Olive Oil), Camella Oleifera (Camella Leaf Extract), Hypericum Perforatum (St. John’s Wort Oil), Laminaria Digitata (Seaweed), Alkylpolyglucosides (Natural Vegetarian Surfactant from Corn, Potato, Wheat, Coconut Oil), Cocamidopropyl Betain (from Coconuts), Vegetable Glycerine, Cannabis Sativa (Hemp Seed Oil), Panthenol (Vitamin B-5), Cyamopsis Tetragonoloba (Guar Gum), Citric Acid, Sodium Hydroxymethylglycinate</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body</s:tag>
+    <s:tag>Bug</s:tag>
+    <s:tag>Cleaner</s:tag>
+    <s:tag>Cleanser</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>Essential Oil</s:tag>
+    <s:tag>Facial</s:tag>
+    <s:tag>Hair</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Insect</s:tag>
+    <s:tag>Lotion</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Repellant</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shaving</s:tag>
+    <s:tag>Skin Care</s:tag>
+    <s:tag>Spray</s:tag>
+    <s:tag>Toothpaste</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/1563178598481</id>
+      <title>240 mL</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/1563178598481</id>
+      <title>480 mL</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>510</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mwnaturals.ca/products/1563169292369</id>
+    <published>2018-11-05T16:01:28-07:00</published>
+    <updated>2018-11-05T16:01:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/shield-hand-soap"/>
+    <title>Shield Hand Soap</title>
+    <s:type>Home and Body</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/800x800-shopify-product-logo_9381f865-c514-496a-8e19-edc79f6339d7.jpg?v=1620101049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Home and Body<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A gentle all-natural foaming pump soap with the added anti-septic power of our organic Shield Blend.  Also a powerful odor neutralizer.</p>
+<p>To refill: Use 15 mL Shield Dish Soap and top with water.</p>
+<p><strong>Ingredients:</strong> Water (Aqua), Decyl Glucoside, Coco Glucoside (Natural Vegetarian<br>Surfactant from Corn, Potato, Wheat, Coconut Oil), Cocamidopropyl Betaine, Vegetable Glycerine, Hemp Seed Oil, Panthenol, Whole Wheat Protein, Citric Acid, Sodium Hydroxymethylglycinate.  <strong>Organic </strong><strong>Essential oils of:</strong> Clove, Lemon, Cinnamon Bark, Eucalyptus Radiata, Rosemary</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blends</s:tag>
+    <s:tag>Body</s:tag>
+    <s:tag>Bug</s:tag>
+    <s:tag>Cleaner</s:tag>
+    <s:tag>Cleanser</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>Essential Oil</s:tag>
+    <s:tag>Facial</s:tag>
+    <s:tag>Hair</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Insect</s:tag>
+    <s:tag>Lotion</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Repellant</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shaving</s:tag>
+    <s:tag>Shield</s:tag>
+    <s:tag>Skin Care</s:tag>
+    <s:tag>Spray</s:tag>
+    <s:tag>Thieves</s:tag>
+    <s:tag>Toothpaste</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/1563169292369</id>
+      <title>210 mL</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mwnaturals.ca/products/1563163328593</id>
+    <published>2018-11-05T16:01:28-07:00</published>
+    <updated>2018-11-05T16:01:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/shield-dish-soap"/>
+    <title>Shield Dish Soap</title>
+    <s:type>Home and Body</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/800x800-shopify-product-logo_1738196f-d1b9-4a32-a2d7-1324e7ddf92a.jpg?v=1620101033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Home and Body<br>
+        <strong>Price: </strong>
+            13.95 - 24.95
+            <a href="https://mwnaturals.ca/products/shield-dish-soap">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A concentrated, powerful, all-natural grease fighter with the added anti-septic and healing power of our organic Shield Blend.  This soap was formulated as a bubble bath but actually works great for cleaning any surface!  Use on glass, wood, metal, walls, floors, and of course dishes! </p>
+<p><strong>Ingredients:</strong> Water (Aqua), Decyl Glucoside, Coco Glucoside (Natural Vegetarian<br>Surfactant from Corn, Potato, Wheat, Coconut Oil), Cocamidopropyl Betaine, Vegetable Glycerine, Hemp Seed Oil, Panthenol, Whole Wheat Protein, Citric Acid, Sodium Hydroxymethylglycinate. <strong> Organic Essential oils of:</strong> Clove, Lemon, Cinnamon Bark, Eucalyptus Radiata, Rosemary</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blends</s:tag>
+    <s:tag>Body</s:tag>
+    <s:tag>Bug</s:tag>
+    <s:tag>Cleaner</s:tag>
+    <s:tag>Cleanser</s:tag>
+    <s:tag>Conditioner</s:tag>
+    <s:tag>Deodorant</s:tag>
+    <s:tag>Essential Oil</s:tag>
+    <s:tag>Facial</s:tag>
+    <s:tag>Hair</s:tag>
+    <s:tag>Home</s:tag>
+    <s:tag>Insect</s:tag>
+    <s:tag>Lotion</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Repellant</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Shaving</s:tag>
+    <s:tag>Shield</s:tag>
+    <s:tag>Skin Care</s:tag>
+    <s:tag>Spray</s:tag>
+    <s:tag>Thieves</s:tag>
+    <s:tag>Toothpaste</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/1563163328593</id>
+      <title>240 mL</title>
+      <s:price currency="CAD">13.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/1563163328593</id>
+      <title>500 mL</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>530</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mwnaturals.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mwnaturals.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mwnaturals.ca/collections/diffusers.atom"/>
+  <title>Mountain Wellness Naturals</title>
+  <updated>2019-05-10T14:39:04-06:00</updated>
+  <author>
+    <name>Mountain Wellness Naturals</name>
+  </author>
+  <entry>
+    <id>https://mwnaturals.ca/products/2964136558673</id>
+    <published>2019-05-10T14:39:04-06:00</published>
+    <updated>2019-05-10T14:39:04-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/ultrasonic-hand-blown-glass-diffuser-amber"/>
+    <title>Ultrasonic Hand-Blown Glass Diffuser - Amber</title>
+    <s:type></s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/diffuser-amber.jpg?v=1557520866"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These beautiful works of art can easily serve as centerpieces.  Add tap water and the essential oil of your choice to purify, energize, and freshen the air in your home or office.  Be sure to follow our safety guidelines.  Created by the world's largest manufacturer of ultrasonic diffusers, backed by a 1-year warranty, and customer service line, you can be confident in your purchase.</p>
+<table width="836">
+<tbody>
+<tr>
+<td>
+<p><strong>Run Time</strong></p>
+</td>
+<td>
+<p>Up to 5 hrs.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Actual Unit Size (L" X W" X H")</strong></p>
+</td>
+<td>
+<p>5″ X 5″ X 8.5″</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Capacity</strong></p>
+</td>
+<td>
+<p>150 mL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Misting Modes</strong></p>
+</td>
+<td>
+<p>Continuous / Off</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Light Modes</strong></p>
+</td>
+<td>
+<p>White Dimming</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Color Change</strong></p>
+</td>
+<td>
+<p>N/A</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Coverage Up To (Sq. Ft.)</strong></p>
+</td>
+<td>
+<p>1000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Auto Sensor Shut Off</strong></p>
+</td>
+<td>
+<p>Yes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Power</strong></p>
+</td>
+<td>
+<p>100 – 240V AC</p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Oil</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/2964136558673</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mwnaturals.ca/products/2964123811921</id>
+    <published>2019-05-10T14:28:24-06:00</published>
+    <updated>2019-05-10T14:28:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/ultrasonic-hand-blown-glass-diffuser-obsidian"/>
+    <title>Ultrasonic Hand-Blown Glass Diffuser - Obsidian</title>
+    <s:type></s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/diffuser-obsidian.jpg?v=1557520568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These beautiful works of art can easily serve as centerpieces.  Add tap water and the essential oil of your choice to purify, energize, and freshen the air in your home or office.  Be sure to follow our safety guidelines.  This reliable unit is created by the world's largest manufacturer of ultrasonic diffusers, backed by a 1-year warranty.</p>
+<table width="836">
+<tbody>
+<tr>
+<td>
+<p><strong>Run Time</strong></p>
+</td>
+<td>
+<p>Up to 5 hrs.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Actual Unit Size (L" X W" X H")</strong></p>
+</td>
+<td>
+<p>5″ X 5″ X 8.5″</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Capacity</strong></p>
+</td>
+<td>
+<p>150 mL</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Misting Modes</strong></p>
+</td>
+<td>
+<p>Continuous / Off</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Light Modes</strong></p>
+</td>
+<td>
+<p>White Dimming</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Color Change</strong></p>
+</td>
+<td>
+<p>N/A</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Coverage Up To (Sq. Ft.)</strong></p>
+</td>
+<td>
+<p>1000</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Auto Sensor Shut Off</strong></p>
+</td>
+<td>
+<p>Yes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>Power</strong></p>
+</td>
+<td>
+<p>100 – 240V AC</p>
+</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Oil</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/2964123811921</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">85.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mwnaturals.ca/products/9312274321</id>
+    <published>2017-05-03T18:41:39-06:00</published>
+    <updated>2017-05-03T18:41:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mwnaturals.ca/products/car-aromatherapy-diffuser-humidifier"/>
+    <title>Ultrasonic Car Diffuser/Humidifier</title>
+    <s:type>Diffuser</s:type>
+    <s:vendor>Mountain Wellness Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1901/6703/products/diffuser_car.jpg?v=1493859357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mountain Wellness Products<br>
+        <strong>Type: </strong>Diffuser<br>
+        <strong>Price: </strong>
+            24.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Easy and convenient way to bring essential oils with you on the road!  The basin rotates to accommodate nearly every style of 12V car socket.  If yours doesn't fit, contact us about a refund.</p>
+<p>Keep your senses sharp and your passengers safe with these stimulating oils:</p>
+<p>Grapefruit and Peppermint work wonderfully. Some others that work well include: Spearmint, Eucalyptus, Frankincense, Bergamot, Orange, Lemon, Lime and other citrus.  And still other oils that may help include: Basil, Cardamom, Cinnamon, Petitgrain, Black Pepper, Coriander, and Juniper.</p>
+<p>Fill basin with water.  Add 1 - 3 drops of oil of your choosing per hour.  It is recommended to ventilate between doses of essential oil.  Do not dilute oils that you plan to use in a diffuser.  See safety information for the essential oil before diffusing it in a vehicle</p>
+<div>
+<p><span inherit=""><span>- Water tank capacity: 50ML.<br>- Working voltage: DC 12V.<br>- Working Current: 130mA - 150mA.<br>- Frequency: 1.5W - 2W.<br>- Spray volume: 25ML / hour.</span></span></p>
+<p><span inherit=""></span><strong><span>Features: </span></strong><span inherit=""></span><span>Auto shut off after 2 hours, Adjustable, Durable, Portable<br></span><strong><span>Material: </span></strong><span inherit=""></span><span>ABS, Electronic Components, Plastic</span></p>
+</div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Oil</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9312274321</id>
+      <title>Pink</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9312274321</id>
+      <title>Purple</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9312274321</id>
+      <title>Green</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mwnaturals.ca/products/9312274321</id>
+      <title>Blue</title>
+      <s:price currency="CAD">24.95</s:price>
+      <s:sku></s:sku>
+      <s:grams>250</s:grams>
+    </s:variant>
+  </entry>
+</feed>
